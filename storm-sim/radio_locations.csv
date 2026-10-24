@@ -1,0 +1,4 @@
+radio,port,node_id,latitude,longitude,altitude_m,source,read_at
+Storm A,COM3,!1c6bd825,34.5326,-83.9849,440,fixed position,2026-10-24T11:54:10
+Storm B,COM5,!eb016bc7,34.556,-83.952,440,fixed position,2026-10-24T11:54:14
+Storm C,COM6,!605305a9,34.509,-84.015,440,fixed position,2026-10-24T11:54:18

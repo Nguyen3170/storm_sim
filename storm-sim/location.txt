@@ -1,0 +1,9 @@
+# Virtual radios at spoofed locations across North Georgia (not real incidents)
+# One per real radio, in order: line 1 -> Storm A, line 2 -> Storm B, line 3 -> Storm C.
+# Each real radio sends all its messages as its own virtual radio.
+# Names are made up: real but unusual US first names and surnames, mixed at random.
+# Leave latitude and longitude empty for a radio with no GPS: it sends no position and answers vaguely.
+# id,name,latitude,longitude,place
+!virt0001,Bubba Snodgrass,34.69480,-84.48220,downtown Ellijay, Gilmer County
+!virt0002,Cletus Higginbottom,34.52774,-83.97683,0.9 km SE of the Dahlonega square, Lumpkin County
+!virt0003,Bertha Wigglesworth,,,downtown Clayton, Rabun County
